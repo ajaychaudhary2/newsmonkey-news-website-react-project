@@ -1,0 +1,48 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+   
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Peter Kafka",
+            "title": "Trump’s Tucker Carlson interview proved Twitter is still the place to talk politics",
+            "description": "The first Republican presidential debate featured a meta contest: Who would win the fight between Fox News and Twitter?",
+            "url": "https://www.vox.com/2023/8/24/23844369/musk-twitter-x-republican-debate-rnc-fox-news-tucker-carlson-trump-peter-kafka-media-column",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bq4DWhBapkQrsNtD77HNNxpUPJk=/0x566:5875x3642/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24870806/1619654606.jpg",
+            "publishedAt": "2023-08-24T16:45:00Z",
+            "content": "Wednesday nights Republican presidential debate also had a meta contest: Who would win the fight between traditional TV in this case, Fox News, which broadcast the debate and Twitter, which counterpr… [+4783 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+  
+     
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}

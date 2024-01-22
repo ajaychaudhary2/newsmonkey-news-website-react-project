@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Ubuntu&display=swap');
+body{font-family: 'Ubuntu', sans-serif; 
+}
+
+.badge{font-family: 'Ubuntu', sans-serif !important;
+background-color:rgb(201 38 54) !important;
+border-radius: px;}
+.h1{margin-top: 8rem !important;
+  margin: 35px 0px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.navbar{
+  background-color: rgba(0, 0, 0, 0.912) !important;
+}
+.item{
+  margin-bottom: 3rem;
+}
+.navbar-brand{
+  color:  aliceblue  !important;
+}
+.nav-link{ color:  rgba(240, 248, 255, 0.805)  !important;}
+ul li{
+  text-transform: capitalize;
+   }
+.padding-left{
+  padding: 0px 20px;
+  font-size: 1.1rem;
+}
+.hover:hover{
+  color: gray !important;
+}
+.hover1:hover{
+  color: rgba(165, 42, 42, 0.879) !important;
+}
+.hover2:hover{
+  color: rgba(0, 167, 89, 0.927) !important;
+}
+.hover3:hover{
+  color: rgba(198, 195, 0, 0.907) !important;
+}
+.size{
+  font-size: 2rem;
+ 
+}
+.margin{
+  margin-left: 3rem
+}
+.clr{
+  color: rgb(201 38 54) !important;
+}
